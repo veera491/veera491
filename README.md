@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F0C29,35:302B63,70:6A00F4,100:8E2DE2&text=VEERABABU%20SUTAPALLI&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=ML%20%26%20GenAI%20Engineer%20%7C%20AI%20Systems%20%7C%20Python%20%7C%20LLM%20Applications%20%7C%20RAG&descAlignY=58&descSize=17" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0C29,50:6A00F4,100:8E2DE2&text=VEERABABU%20SUTAPALLI&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=ML%20%7C%20GenAI%20%7C%20Full-Stack%20Engineering%20%7C%20Python%20%7C%20AI%20Systems&descAlignY=58&descSize=16" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=1050&lines=ML+%26+GenAI+Focused+Computer+Science+Postgraduate;Python+%7C+Machine+Learning+%7C+NLP+%7C+LLM+Apps+%7C+RAG;Building+practical+AI+systems+with+software+engineering+discipline;Open+to+ML+Engineer%2C+GenAI+Engineer%2C+AI+Engineer+and+Python+Developer+roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=27&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=1050&lines=ML+%26+GenAI+Focused+Computer+Science+Postgraduate;Full-Stack+Builder+with+AI%2FData+Engineering+Focus;Python+%7C+Machine+Learning+%7C+NLP+%7C+LLM+Apps+%7C+RAG;React+%7C+Next.js+%7C+Flask+%7C+Firebase+%7C+Docker;Building+practical+AI+systems+with+software+engineering+discipline" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/BTH-Computer%20Science-6A00F4?style=for-the-badge&logo=academia&logoColor=white" alt="BTH Computer Science" />
   <img src="https://img.shields.io/badge/Focus-ML%20%26%20GenAI-8E2DE2?style=for-the-badge&logo=openai&logoColor=white" alt="ML and GenAI Focus" />
-  <img src="https://img.shields.io/badge/AI%20Engineering-LLM%20Apps%20%7C%20RAG%20%7C%20NLP-4F46E5?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/Full--Stack-React%20%7C%20Flask%20%7C%20Firebase-4F46E5?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack" />
   <img src="https://img.shields.io/badge/Location-Sweden%20%7C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
 
@@ -40,16 +40,16 @@
 
 ## <p align="center">About</p>
 
-I am a **Machine Learning and GenAI-focused Computer Science postgraduate** building practical AI systems with strong foundations in **Python, machine learning, NLP, LLM applications, RAG, data pipelines, and software engineering**.
+I am a **Machine Learning, GenAI, and Full-Stack focused Computer Science postgraduate** building practical AI systems with strong foundations in **Python, machine learning, NLP, LLM applications, RAG, APIs, databases, and software engineering**.
 
-My main professional direction is **ML + GenAI Engineering**. I focus on building intelligent systems that can process data, learn patterns, retrieve knowledge, generate insights, and support real-world decision-making. I combine classical machine learning, explainable AI, NLP, LLM application design, and product-focused software engineering to create projects that are technically defensible and recruiter-ready.
+My main professional direction is **ML + GenAI Engineering**, supported by **full-stack product engineering**. I focus on building intelligent systems that can process data, learn patterns, retrieve knowledge, generate insights, and support real-world decision-making. I combine classical machine learning, explainable AI, NLP, LLM application design, backend APIs, frontend workflows, and product-focused software engineering to create projects that are technically defensible and recruiter-ready.
 
-My work spans **machine learning models, GenAI workflows, NLP classification systems, AI/data applications, Flask-based systems, Firebase-backed products, Dockerized deployments, mobile application prototypes, and portfolio-grade technical documentation**. I care about building systems that are not only functional, but also explainable, reproducible, and professionally documented.
+My work spans **machine learning models, GenAI workflows, NLP classification systems, AI/data applications, Flask-based systems, Firebase-backed products, React/Next.js interfaces, Dockerized deployments, mobile application prototypes, and portfolio-grade technical documentation**. I care about building systems that are not only functional, but also explainable, reproducible, usable, and professionally documented.
 
 My engineering mindset is simple:
 
 <p align="center">
-  <b>Clean data. Correct models. Measurable results. Honest documentation. Deployable systems.</b>
+  <b>Clean data. Correct models. Useful products. Measurable results. Honest documentation. Deployable systems.</b>
 </p>
 
 <table align="center">
@@ -58,16 +58,20 @@ My engineering mindset is simple:
     <td align="center">Machine Learning • GenAI • LLM Applications • RAG • NLP • AI Engineering</td>
   </tr>
   <tr>
+    <td align="center"><b>Full-Stack Support</b></td>
+    <td align="center">React • Next.js • Flask • Django • FastAPI Basics • Node.js • Firebase • REST APIs</td>
+  </tr>
+  <tr>
     <td align="center"><b>Core Strengths</b></td>
-    <td align="center">Python • Scikit-learn • pandas • NumPy • NLP • Model Evaluation • AI App Engineering</td>
+    <td align="center">Python • Scikit-learn • pandas • NumPy • SQL • Model Evaluation • AI App Engineering</td>
   </tr>
   <tr>
     <td align="center"><b>Engineering Support</b></td>
-    <td align="center">Flask • FastAPI Basics • Firebase • Docker • AWS • SQL • GitHub • Full-Stack Basics</td>
+    <td align="center">Docker • AWS • Azure Basics • GitHub • Databases • Mobile/Firebase Workflows</td>
   </tr>
   <tr>
     <td align="center"><b>Open To</b></td>
-    <td align="center">ML Engineer • GenAI Engineer • AI Engineer • Python Developer • Data/AI Engineering Roles</td>
+    <td align="center">ML Engineer • GenAI Engineer • AI Engineer • Python Developer • Full-Stack Developer • Data/AI Engineering Roles</td>
   </tr>
 </table>
 
@@ -119,7 +123,7 @@ My engineering mindset is simple:
 
 ---
 
-## <p align="center">AI / ML Expertise</p>
+## <p align="center">AI / ML / Full-Stack Expertise</p>
 
 | Domain | Proficiency | Details |
 |---|---|---|
@@ -127,11 +131,12 @@ My engineering mindset is simple:
 | GenAI / LLM Engineering | Building Phase | LLM applications, RAG systems, prompt engineering, structured outputs, AI workflow design |
 | NLP | Project Level | Text preprocessing, TF-IDF, classification, AI-generated text detection, explainability |
 | Explainable AI | Project Level | LIME, feature importance, model interpretation, partial dependence analysis |
+| Full-Stack Engineering | Practical Project Level | React/Next.js interfaces, Flask/Django/FastAPI-style APIs, Firebase workflows, REST APIs, database-backed apps |
+| Backend Engineering | Practical Level | Python APIs, authentication flows, CRUD, database integration, service documentation |
 | Data Science | Project Level | EDA, statistical reasoning, feature engineering, model evaluation, insight writing |
 | Data Analytics | Practical Level | SQL, pandas, dashboards, business metrics, reporting, storytelling |
 | MLOps / LLMOps | Foundation Level | Experiment tracking concepts, reproducibility, model serving basics, monitoring basics |
 | AI System Design | Growing Focus | RAG architecture, AI app design, evaluation, safety, latency/cost tradeoffs |
-| Software Engineering for AI | Practical Level | Flask/FastAPI-style APIs, Docker basics, GitHub documentation, deployment thinking |
 
 ---
 
@@ -214,6 +219,26 @@ A decision-support system for port efficiency analytics using maritime logistics
 | Repository | <a href="https://github.com/veera491/port-efficiency-decision-support-system">github.com/veera491/port-efficiency-decision-support-system</a> |
 
 This project highlights my ability to transform domain data into analytical workflows, build model-backed decision support, and structure a project for professional GitHub presentation.
+
+</details>
+
+<details>
+<summary><b>BilTeam Car Auction Marketplace — Full-Stack Firebase Product Engineering</b></summary>
+
+<br>
+
+A client/freelance full-stack marketplace project focused on auction workflows, listing moderation, admin configuration, payments-lite, deal lifecycle, trust and safety, notifications, and web/mobile product parity.
+
+| Category | Details |
+|---|---|
+| Stack | Firebase Auth, Firestore, Storage, Cloud Functions, Next.js, React/Vite, Flutter |
+| Scale | Marketplace architecture with web, admin, backend rules, and mobile foundations |
+| Performance | Demo-ready workflows validated through structured testing and emulator-based verification |
+| Security | Firebase rules, role-based admin access, moderation, audit-oriented workflows |
+| Impact | Demonstrates full-stack product engineering, real-world client delivery, and marketplace lifecycle thinking |
+| Repository | Private / client-sensitive project context |
+
+This project strengthens my full-stack profile by showing practical product engineering across authentication, database modeling, admin operations, user flows, and marketplace lifecycle logic.
 
 </details>
 
@@ -353,7 +378,7 @@ Worked on Java software development fundamentals through internship-based projec
 | HackerRank Problem Solving | Strong problem-solving profile with coding practice history |
 | HackerRank Python | Strong Python problem-solving profile |
 | BTH Computer Science | Computer Science postgraduate studies with AI/data/software project background |
-| GitHub Portfolio | Built a multi-domain portfolio across ML, GenAI, data analytics, cybersecurity ML, cloud, and mobile |
+| GitHub Portfolio | Built a multi-domain portfolio across ML, GenAI, full-stack, data analytics, cybersecurity ML, cloud, and mobile |
 | Academic Research & Projects | Worked on ML/data-driven academic projects including forecasting, classification, detection, and decision support |
 
 </div>
@@ -395,7 +420,7 @@ Worked on Java software development fundamentals through internship-based projec
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Programming-111827?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python Programming" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Foundations-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning Foundations" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-Practical%20Projects-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Data Analytics" />
+  <img src="https://img.shields.io/badge/Full--Stack-React%20%7C%20Flask%20%7C%20Firebase-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full Stack" />
   <img src="https://img.shields.io/badge/SQL-Database%20Skills-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="SQL Database Skills" />
 </p>
 
@@ -407,52 +432,11 @@ Worked on Java software development fundamentals through internship-based projec
   <a href="https://leetcode.com/u/veera491/">
     <img src="https://img.shields.io/badge/LeetCode-veera491-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
   </a>
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Practice%20Profile-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks" />
-  </a>
+  
   <a href="https://www.hackerrank.com/svb491">
     <img src="https://img.shields.io/badge/HackerRank-svb491-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" />
   </a>
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-Practice%20Profile-111827?style=for-the-badge&logo=codechef&logoColor=5B4638" alt="CodeChef" />
-  </a>
-</p>
-
----
-
-## <p align="center">GitHub Analytics</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veera491&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=E5E7EB" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=veera491&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7" height="180" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera491&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB" height="190" alt="Top Languages" />
-</p>
-
----
-
-## <p align="center">GitHub Trophies</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=veera491&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-## <p align="center">Contribution Activity</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veera491&bg_color=0D1117&color=E5E7EB&line=A855F7&point=8B5CF6&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
-</p>
-
----
-
-## <p align="center">Contribution Snake</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/veera491/veera491/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+ 
 </p>
 
 ---
@@ -465,15 +449,17 @@ Learning:
   - GenAI and LLM Engineering
   - Retrieval-Augmented Generation
   - NLP and Explainable AI
+  - Full-Stack AI Application Development
   - AI Agents and Tool Use
   - MLOps and LLMOps Foundations
 
 Building:
   - ML and GenAI portfolio projects
   - RAG-based assistants with citations
-  - AI application workflows with Python APIs
+  - Full-stack AI applications with Python APIs and React/Next.js interfaces
+  - Firebase-backed product workflows
   - Clean GitHub repositories with reproducible documentation
-  - Interview-ready ML and AI project defenses
+  - Interview-ready ML, GenAI, and full-stack project defenses
 
 Exploring:
   - LLM evaluation
@@ -481,12 +467,14 @@ Exploring:
   - Prompt engineering and structured outputs
   - AI system design for real-world applications
   - Responsible AI and hallucination control
+  - Production-ready full-stack AI engineering
 
 Open_To:
   - Machine Learning Engineer
   - GenAI Engineer
   - AI Engineer
   - Python Developer
+  - Full-Stack Developer
   - Data/AI Engineering Roles
   - Junior Software Engineer roles with AI/ML focus
 ```
@@ -513,7 +501,7 @@ Open_To:
 ---
 
 <p align="center">
-  <b>Building practical ML and GenAI systems with clean engineering, measurable results, and honest documentation.</b>
+  <b>Building practical ML, GenAI, and full-stack AI systems with clean engineering, measurable results, and honest documentation.</b>
 </p>
 
 <p align="center">
